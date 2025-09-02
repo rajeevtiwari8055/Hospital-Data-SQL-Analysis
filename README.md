@@ -1,10 +1,28 @@
 # 🏥 Hospital Data SQL Analysis Project
+
 A complete SQL-based data analysis project on fictional hospital records using **PostgreSQL**.  
 This project demonstrates how to clean, query, and analyze healthcare data to uncover key operational insights around **patient care, medical expenses, department efficiency**, and **resource utilization** using 20+ structured SQL queries.
 
 ---
 
-## 📌 Project Overview
+## 📑 Table of Contents
+
+- <a href="#project-overview">📌 Project Overview</a>  
+- <a href="#dataset-used">📂 Dataset Used</a>  
+- <a href="#project-objectives">🎯 Project Objectives</a>  
+- <a href="#business-problems">⭕ Business Problems Addressed</a>  
+- <a href="#methodology">🛠️ Methodology</a>  
+- <a href="#insights">🔍 Key Insights & Solutions</a>  
+- <a href="#queries">📈 Sample SQL Queries Used</a>  
+- <a href="#skills">🧠 Skills Gained</a>  
+- <a href="#importance">🔑 Why This Project Matters</a>  
+- <a href="#conclusion">✅ Conclusion</a>  
+- <a href="#contact">📬 Connect with Me</a>  
+- <a href="#project-visual">📸 Project Preview</a>  
+
+---
+
+## <span id="project-overview">📌 Project Overview</span> 
 
 This project focuses on a fictional **Hospital Database**, where I explored various healthcare metrics using **PostgreSQL**.  
 By running a series of SQL queries, I simulated real-world healthcare reporting to answer practical business questions and assist in **data-driven decisions for hospital operations**.
@@ -13,7 +31,7 @@ The project aims to reveal patterns related to patient volume, doctor availabili
 
 ---
 
-## 📂 Dataset Used
+## <span id="dataset-used">📂 Dataset Used</span> 
 
 The analysis was based on a single structured dataset `hospital`, assumed to have the following columns:
 
@@ -30,7 +48,7 @@ The analysis was based on a single structured dataset `hospital`, assumed to hav
 
 ---
 
-## 🎯 Project Objectives
+## <span id="project-objectives">🎯 Project Objectives</span> 
 
 The main objectives of this hospital data analysis project were to:
 
@@ -43,7 +61,7 @@ The main objectives of this hospital data analysis project were to:
 
 ---
 
-## ⭕ Business Problems Addressed
+## <span id="business-problems">⭕ Business Problems Addressed</span> 
 
 The hospital administration wanted answers to the following real-world business problems:
 
@@ -56,8 +74,8 @@ The hospital administration wanted answers to the following real-world business 
 - Which city has the highest healthcare demand?
 
 ---
-
-## 🛠️ Methodology
+ 
+## <span id="methodology">🛠️ Methodology</span> 
 
 A structured and modular SQL workflow was followed:
 
@@ -85,7 +103,7 @@ Derived insights on:
 
 ---
 
-## 🔍 Key Insights & Solutions
+## <span id="insights">🔍 Key Insights & Solutions</span> 
 
 ✅ **Total Patients Treated:**  
 `SELECT SUM(patients_count)`  
@@ -125,7 +143,7 @@ Derived insights on:
 
 ---
 
-## 📈 Sample SQL Queries Used
+## <span id="queries">📈 Sample SQL Queries Used</span> 
 
 ### 🟢 Basic Queries:
 
@@ -149,7 +167,7 @@ Derived insights on:
 
 ---
 
-## 🧠 Skills Gained
+## <span id="skills">🧠 Skills Gained</span> 
 
 From this project, I developed practical experience in:
 
@@ -161,7 +179,7 @@ From this project, I developed practical experience in:
 
 ---
 
-## 🔑 Why This Project Matters
+## <span id="importance">🔑 Why This Project Matters</span>
 
 ✅ Simulates real-world healthcare reporting scenarios  
 📁 Ideal for GitHub/LinkedIn data portfolio  
@@ -170,8 +188,8 @@ From this project, I developed practical experience in:
 📊 Sets a foundation for dashboard building and automation
 
 ---
-
-## ✅ Conclusion
+ 
+## <span id="conclusion">✅ Conclusion</span>
 
 This SQL project gave me a strong foundation in healthcare data analytics.  
 By querying a hospital dataset with PostgreSQL, I delivered actionable insights around **patient care**, **resource management**, and **cost control**.  
@@ -179,7 +197,18 @@ It helped transform structured data into real-world decisions and operational im
 
 ---
 
-## 📸 Project Preview
+## <span id="contact">📬 Connect with Me</span>  
+
+- 📧 **Email**: [rajeevtiwari8055@gmail.com](mailto:rajeevtiwari8055@gmail.com)  
+- 💻 **GitHub**: [github.com/rajeevgit8055hub](https://github.com/rajeevgit8055hub)  
+- 🔗 **LinkedIn**: [linkedin.com/in/rajeev-tiwari123](https://www.linkedin.com/in/rajeev-tiwari123)  
+- 🌐 **Website**: [rajeevgit8055hub.github.io/rajeevtiwari.github.io](https://rajeevgit8055hub.github.io/rajeevtiwari.github.io/)  
+
+🤝 *Thanks for visiting my profile!*  
+
+---
+
+## <span id="project-visual">📸 Project Preview</span>
 
 🏥 **Hospital Data SQL Analysis Project**  
 (*Visual: Hospital records database, SQL queries, patient and expense charts, healthcare insights*)
