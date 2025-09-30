@@ -1,4 +1,4 @@
-# 🏥 Hospital Data SQL Analysis Project
+# 🏥 Hospital Data SQL Analysis
 
 A complete SQL-based data analysis project on fictional hospital records using **PostgreSQL**.  
 This project demonstrates how to clean, query, and analyze healthcare data to uncover key operational insights around **patient care, medical expenses, department efficiency**, and **resource utilization** using 20+ structured SQL queries.
